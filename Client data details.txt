@@ -1,0 +1,41 @@
+Client name is MatTest and industry is Manufacturing, Consolidate to single SAP instance by FY2027
+- Adding 90%+ straight-through Achievement match through improved catalog adoption
+- Moving Vendor onboarding process has been reduced to 7 business days using automated KYC
+- Implement AI-assisted exception coding for price/quantity variances
+- Global  Adding SOPs and RACI had been Standardize across regions.
+Audience - Maria Chen (Controller) and the whole transformation steering committee. The decision is to endorse the baseline matrix and approve the P2P transformation roadmap, including the 90 days quick wins
+win themes:
+- Match exception is automated: raise match rate from 78% to 90% and free up ~6.2 FTE manual efforts 
+- Cheaper and faster processing cut invoice to payment time ( US 14.2 to 10 days, EU 23.1 to 14 days) and cost per invoice from $4.85 to $3.20
+- control and SOX readiness is stronger: this is close to 11 open SoD conflicts in Summit Netsuits and lift PO compliance from 84% to 95%   
+
+use the uploaded documents as the source for all figures
+
+
+
+Client is Northwind, industry is manufacturing, Consolidate to single SAP instance by FY2027
+- Achieve 90%+ straight-through match via improved catalog adoption
+- Reduce vendor onboarding to 7 business days with automated KYC
+- Implement AI-assisted exception coding for price/quantity variances
+- Standardize global SOPs and RACI across regions.
+Audience - Maria Chen ( Controller) and the transformation steering committee. The decision is to endorse the baseline matrix and approve the P2P transformation roadmap, including the 90 days quick wins
+win themes:
+- automation of the match exception: raise straight through match rate from 78% to 90% and free up ~6.2 FTE manual efforts 
+- faster cheaper processing cut invoice to payment time ( US 14.2 to 10 days, EU 23.1 to 14 days) and cost per invoice from $4.85 to $3.20
+- stronger control and SOX readiness: close to 11 open SoD conflicts in Summit Netsuits and lift PO compliance from 84% to 95%   
+ 
+use the uploaded documents as the source for all figures
+
+
+ask copilot to help debug python from terminal
+
+remove the fallback( comment) and show error on screens
+
+
+win themes:
+- faster cheaper processing cut invoice to payment time ( US 14.2 to 10 days, EU 23.1 to 14 days) and cost per invoice from $4.85 to $3.20
+- stronger control and SOX readiness: close to 11 open SoD conflicts in Summit Netsuits and lift PO compliance from 84% to 95%   
+- automation of the match exception: raise straight through match rate from 78% to 90% and free up ~6.2 FTE manual efforts 
+
+Hi, i want a proposal to be created on solution to the issue of unexpected machine failures via Implementing an AI and IoT-based Predictive Maintenance Platform
+
